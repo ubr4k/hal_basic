@@ -1,0 +1,7 @@
+../Core/Src/mainb.c:26:5:main	5
+../Core/Src/mainb.c:58:6:SystemClock_Config_HSE	7
+../Core/Src/mainb.c:139:6:uart2_init	2
+../Core/Src/mainb.c:155:6:timer2_init	6
+../Core/Src/mainb.c:195:6:gpio_init	1
+../Core/Src/mainb.c:207:6:HAL_TIM_OC_DelayElapsedCallback	5
+../Core/Src/mainb.c:235:6:Error_handler	1

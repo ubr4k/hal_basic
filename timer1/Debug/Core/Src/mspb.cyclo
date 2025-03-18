@@ -1,0 +1,2 @@
+../Core/Src/mspb.c:12:6:HAL_MspInit	1
+../Core/Src/mspb.c:24:6:HAL_TIM_Base_MspInit	1

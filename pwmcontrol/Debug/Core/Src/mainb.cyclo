@@ -1,0 +1,9 @@
+../Core/Src/mainb.c:31:5:main	1
+../Core/Src/mainb.c:55:6:SystemClockConfig	7
+../Core/Src/mainb.c:137:6:uart2_init	2
+../Core/Src/mainb.c:152:6:gpio_init	1
+../Core/Src/mainb.c:168:6:timer2_init	4
+../Core/Src/mainb.c:196:6:adc_init	2
+../Core/Src/mainb.c:217:6:read_adc	4
+../Core/Src/mainb.c:244:6:update_pwm	1
+../Core/Src/mainb.c:250:6:Error_handler	1

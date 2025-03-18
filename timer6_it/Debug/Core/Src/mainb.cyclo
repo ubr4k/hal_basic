@@ -1,0 +1,6 @@
+../Core/Src/mainb.c:21:5:main	1
+../Core/Src/mainb.c:36:6:SystemClockConfig	1
+../Core/Src/mainb.c:41:6:Error_handler	1
+../Core/Src/mainb.c:46:6:tim6_Init	2
+../Core/Src/mainb.c:56:6:gpio_Init	1
+../Core/Src/mainb.c:70:6:HAL_TIM_PeriodElapsedCallback	1
